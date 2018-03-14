@@ -1,4 +1,14 @@
-version 6  is a single file that only requiered rpi.gio 
+version 6.4 is :
+
+jsj_rpi.gpio_speed_testV6_4gui12k_bit_input_block_display_10th_sec.py
+it is a single file that only requiered rpi.gpio    :
+
+sudo apt-get install python-rpi.gpio python3-rpi.gpio
+
+sudo apt-get upgrade
+sudo apt-get update
+
+
 it has a pygame gui and user adjustable threw the up and down arrow keys plus gpio2 input diplay as well as clock out on gpio3 and a scope can use gpio4 as a sweep trigger
 previous versions are obscelete  . thanks
 # jsj_python-rpi.gpio-cps-speed-test-max-min-avr-16bit-sync-serial-with-sync-pin-for-scope
