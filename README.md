@@ -1,3 +1,14 @@
+i discovered that you can run a python script without the terminal window from a bash script .sh file
+so i will includ one in this version 7
+click the file with the .sh extension and then click the "execuit" button. seems to run a tiny bit faster too.
+
+jsj_rpi.gpio_speed_testV7_0_barometer_command_data_.sh
+must be run from the same diurectory as the .py file or it will not start. it is "like" a shortcut to:
+jsj_rpi.gpio_speed_testV7_0_barometer_command_data_.py
+feel free to edit your copy  or examine it to try to understand the suyntaxt of it's commands and structure 
+don't forget to leave comments. feedback is always inspirational
+thanks
+
 version 6.4 is :
 
 jsj_rpi.gpio_speed_testV6_4gui12k_bit_input_block_display_10th_sec.py
