@@ -1,3 +1,7 @@
+new version is much faster graphing rate with smaller back porch(less dead xone time) smaller script and resize extends the trace to the end of the window width even if resized.
+and it doesn't loose keyboard connection as much , like never looses kb now. it was hard to kill. but i removed a few statements that were messing with it's overhead data and dogging it... please try it.. > 600k rpi.gpio instrucions per second thanks
+up doown kewts to increace or decreace sample time
+
 i discovered that you can run a python script without the terminal window from a bash script .sh file
 so i will includ one in this version 7
 click the file with the .sh extension and then click the "execuit" button. seems to run a tiny bit faster too.
